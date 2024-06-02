@@ -64,7 +64,7 @@ enableGitInfo = true
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = 'January 2, 2006'
+  BookDateFormat = '2 Jan 2006'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
@@ -100,7 +100,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'de-DE'
     languageDirection = 'ltr'
     languageName = 'Deutsch'
-    title = 'Nachhaltige Entwicklung'
+    title = 'OpenKnowlegdeHub'
     weight = 1
   [languages.en]
     contentDir = 'content/en'
@@ -108,13 +108,13 @@ defaultContentLanguageInSubdir = true
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'sustainable development'
+    title = 'OpenKnowlegdeHub'
     weight = 2
-  [languages.de_easy]
-    contentDir = 'content/de_easy'
-    disabled = false
-    languageCode = 'de-DE-easy'
-    languageDirection = 'ltr'
-    languageName = 'Deutsch in einfacher Sprache'
-    title = 'Nachhaltige Entwicklung'
-    weight = 3
+  #[languages.de_easy]
+  #  contentDir = 'content/de_easy'
+  #  disabled = false
+  #  languageCode = 'de-DE-easy'
+  #  languageDirection = 'ltr'
+  #  languageName = 'Deutsch in einfacher Sprache'
+  #  title = 'OpenKnowlegdeHub'
+  #  weight = 3

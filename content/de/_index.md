@@ -7,14 +7,14 @@ draft = true
 
 *nachhaltiges Programmieren und mehr*
 
-Diese Webseite ist in aller erster Linie für mich, meinen Spaß und mein Lernen. 
-Ich bin ein leidenschaftlichen Programmierer aus Berlin, welcher ursprünglich 
+Diese Webseite ist in allererster Linie für mich, meinen Spaß und mein Lernen. 
+Ich bin ein leidenschaftlicher Programmierer aus Berlin, welcher ursprünglich 
 aus der Java-Welt kommt.
 
 Neben meiner Arbeit und meinen Projekten als Entwickler bin ich ehrenamtlich bei 
-der [Gemeinwohl Ökonomie](https://germany.ecogood.org/) tätig - mit der klaren Überzeugung, 
+der [Gemeinwohl-Ökonomie](https://germany.ecogood.org/) tätig - mit der klaren Überzeugung, 
 dass wir unser Leben, unsere Arbeit und unsere Kommunikation miteinander verändern
-müssen, um eine lebenswerte Zukunkft für alle zu haben.
+müssen, um eine lebenswerte Zukunft für alle zu haben.
 
 Ich lade euch also herzlich ein, eure Rückmeldungen oder Meinungen zu Themenfeldern 
 an [todo@jguhlke.de](mailto:todo@jguhlke.de) zu senden - wir können uns nur

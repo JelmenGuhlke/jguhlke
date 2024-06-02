@@ -1,7 +1,7 @@
 +++
-title = "blog"
+title = "Blog"
 
 [menu.after]
-name = "blog"
+name = "Blog"
 weight = 5
 +++

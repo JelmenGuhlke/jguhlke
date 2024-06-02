@@ -8,7 +8,7 @@ draft = true
 *sustainable coding and more*
 
 This website is first and foremost for my personal joy and education. I am an 
-ethusiastic software developer based in Berlin with roots in the Java ecosphere.
+enthusiastic software developer based in Berlin with roots in the Java eco-sphere.
 
 Besides of my work and projects as a developer, I am committed as an volunteer 
 for the [ecogood](https://www.ecogood.org/) movement - with the strongly believe, 
